@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                      Hello, 🖐️ I am Raunak<br>~ An Electronics and communication Engineering student.<br>~ Cybersecurity and Ai learner.<br>~ 🐧Linux  | 🛜 Networking  | 🖥️ Systems<br>~ Learning everyday, Building slowly. Thinking deeply.<br>
+~ I am currently working as a cybersecurity intern and researcher.<br>~ Currently learning cybersecurity, Web development and Ai.<br>~ 🐧Linux  | 🛜 Networking  | 🖥️ Systems<br>
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=raunnak05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
