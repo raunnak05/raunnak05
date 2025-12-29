@@ -1,5 +1,5 @@
 # 💫 About Me:
-~ I am currently working as a cybersecurity intern and researcher.<br>~ Currently learning cybersecurity, Web development and Ai.<br>~ 🐧Linux  | 🛜 Networking  | 🖥️ Systems<br>
+~ I am currently working as a cybersecurity intern and researcher.<br>~ Currently learning cybersecurity.<br>~ 🐧Linux  | 🛜 Networking  | 🖥️ Systems<br>
 
 
 ## 🌐 Socials:
